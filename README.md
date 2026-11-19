@@ -1,2 +1,5 @@
 # python2
-Robot . Svg
+<div align="center">
+  <img src="./robot.svg" alt="Animated Robot" />
+</div>
+
